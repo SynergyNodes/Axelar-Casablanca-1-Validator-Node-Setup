@@ -89,12 +89,13 @@ mkdir ~/.axelar_testnet-2/data
 mv axelar.tar ~/.axelar_testnet-2/data/
 cd ~/.axelar_testnet-2/data/
 tar -xvf axelar.tar
+cd
 ```
 ## Start the node and let it Sync
 ```
 axelard start Test_Node --home /home/node/.axelar_testnet-2
 ```
-Let the blockchain sync. After the sync is completed, open a new terminal window and login to the server. Then, login as the user ```node``.
+Let the blockchain sync. After the sync is completed, open a new terminal window and login to the server. Then, login as the user ``node``.
 
 ## Create the necessary wallets
 
@@ -282,7 +283,7 @@ axelard tx staking create-validator --yes \
 
 ## Register as EVM Chain Maintainer
 
-Next step is to register as chain maintainer for EVM chains such as Ethereum. For now, Casablanca testnet supports Ethereum and Avalance. You can install and run your own nodes for Ethereum and Avalance or you can APIs from 3rd party services such as GetBlock, Infura, Quicknodes, Alchemy. We are using GetBlock as an example.
+Next step is to register as chain maintainer for EVM chains such as Ethereum. For now, Casablanca testnet supports Ethereum and Avalance. You can install and run your own nodes for Ethereum and Avalance or you can use APIs from 3rd party services such as GetBlock, Infura, Quicknodes, Alchemy. We are using GetBlock as an example.
 
 Open ``~/.axelar_testnet-2/config/config.toml`` file, scroll down to the end, edit the following section. You have to replace ``<API-KEY>`` with your respective API keys from GetBlock website.
 
