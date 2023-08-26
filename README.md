@@ -1,6 +1,6 @@
 # Axelar Casablanca-1 Testnet Validator Node Setup
 
-[![Axelar Casablanca-1 Testnet Validator Node Setup](https://www.synergynodes.com/youtube/Axelar-Casablanca-Testnet-Validator-Node-youtube-link.jpg)](https://www.youtube.com/watch?v=cShZAoGETSI)
+[![Axelar Casablanca-1 Testnet Validator Node Setup](https://backups.synergynodes.com/youtube/Axelar-Casablanca-Testnet-Validator-Node-youtube-link.jpg)](https://www.youtube.com/watch?v=cShZAoGETSI)
 
 ## Install Ubuntu 20.04 on a new server and login as root
 
