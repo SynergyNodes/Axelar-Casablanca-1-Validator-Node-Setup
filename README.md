@@ -2,6 +2,8 @@
 
 [![Axelar Casablanca-1 Testnet Validator Node Setup](https://backups.synergynodes.com/youtube/Axelar-Casablanca-Testnet-Validator-Node-youtube-link.jpg)](https://www.youtube.com/watch?v=cShZAoGETSI)
 
+[![Axelar Casablanca-1 Testnet Validator Node Setup](https://backups.synergynodes.com/youtube/Axelar-Casablanca-Testnet-Validator-Node-youtube-link.jpg)](Youtube Link)
+
 ## Install Ubuntu 20.04 on a new server and login as root
 
 ## Install ``ufw`` firewall and configure the firewall
